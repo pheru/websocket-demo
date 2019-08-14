@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/websocket-demo.iml" filepath="$PROJECT_DIR$/.idea/websocket-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket-demo-backend/websocket-demo-backend.iml" filepath="$PROJECT_DIR$/websocket-demo-backend/websocket-demo-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket-demo-react-client/websocket-demo-react-client.iml" filepath="$PROJECT_DIR$/websocket-demo-react-client/websocket-demo-react-client.iml" />
+    </modules>
+  </component>
+</project>
